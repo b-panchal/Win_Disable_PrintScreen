@@ -1,0 +1,1 @@
+regedit /s "Disable_PrintScreen.reg"
